@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /*
-* Copyright (C) 2008 The Android Open Source Project
+* Copyright (C) 2022 DerpFest
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -137,5 +137,8 @@
     <string name="app_info_last_update">Last update</string>
     <string name="app_info_version">Version</string>
     <string name="app_info_more">More</string>
+
+    <!-- Application name -->
+    <string name="derp_app_name" translatable="false">DerpLauncher</string>
 
 </resources>
