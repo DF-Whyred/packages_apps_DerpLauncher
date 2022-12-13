@@ -20,12 +20,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string-array translatable="false" name="welcome_message_variants">
-        <item>#GetBanana &#127834;</item>
+        <item>#GetDerped &#127834;</item>
         <item>#EatBanana &#129425;</item>
         <item>#StayHealthy &#127858;</item>
         <item>#KeepYourSmile &#127834;</item>
-        <item>Welcome to BananaDroid</item>
-        <item>Enjoy your banana!</item>
+        <item>Welcome to DerpFest</item>
+        <item>Enjoy your pizza!</item>
         <item>Please enjoy our delicacies &#127834;</item>
     </string-array>
 
@@ -44,7 +44,7 @@
         <item>Grab some banana to start your day.</item>
         <item>Check your schedule if you have one.</item>
         <item>Enjoy your day.</item>
-        <item>Fart first, pee later</item>
+        <item>Be always happy.</item>
         <item>Enjoy a cup of coffee.</item>
         <item>Don\'t forget about protein.</item>
         <item>Eggs make a simple, nutritious breakfast.</item>
@@ -68,10 +68,10 @@
         <item>8 hours of sleep is a must.</item>
         <item>It is evening right now.</item>
         <item>Remember to full charge me before you sleep.</item>
-        <item>Remember to fart and release</item>
+        <item>Remember to smile</item>
         <item>It\'s time to straighten your legs</item>
         <item>Remember to eat dinner.</item>
-        <item>Farting every day makes your day easier</item>
+        <item>Smiling every day makes your day easier</item>
         <item>Enjoy the night.</item>
         <item>Yo Ndak Tau Kok Nanya Saya</item>
         <item>Relax and do some rest.</item>
@@ -110,7 +110,7 @@
         <item>Chocolate contains antioxidants.</item>
         <item>Anxiety can make bad smells even worse.</item>
         <item>Eating eggs improves your reflexes.</item>
-        <item>Remember to fart</item>
+        <item>Remember to smile</item>
         <item>Relax your mind</item>
         <item>Eat Banana &amp; Stay Healthy</item>
         <item>Check your to-do list if you have one.</item>
@@ -122,8 +122,8 @@
         <item>Yo Ndak Tau Kok Nanya Saya</item>
         <item>Try to be a rainbow in someone\'s cloud</item>
         <item>When nothing goes right... Go left</item>
-        <item>Farting every day makes your day easier</item>
-        <item>Make a smile as your best friend</item>
+        <item>Smiling makes your day easier</item>
+        <item>Make smile as your best friend</item>
     </string-array>
 
     <string name="custom_date_strings">EEE, MMM d</string>
