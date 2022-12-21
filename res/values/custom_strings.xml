@@ -118,10 +118,10 @@
     <string name="pref_themed_icons_summary">Toggle to switch between homescreen dock and all apps themed icons</string>
 
     <!-- About info -->
-    <string name="about_banana_title" translatable="false">Banana Home</string>
+    <string name="about_banana_title" translatable="false">Derp Home</string>
     <string name="about_thanks_cat">Special thanks to</string>
     <string name="about">About</string>
-    <string name="about_summary">Info about the Banana Home</string>
+    <string name="about_summary">Info about the Derp Home</string>
     <string name="about_app_version">Launcher for 12.1</string>
     
     <!-- Hotseat Background -->
