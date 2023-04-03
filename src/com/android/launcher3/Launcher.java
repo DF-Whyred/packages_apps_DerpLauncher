@@ -1748,6 +1748,10 @@ public class Launcher extends StatefulActivity<LauncherState> implements Launche
 
         mOverlayManager.onActivityDestroyed(this);
         mUserChangedCallbackCloseable.close();
+        
+        if (mQuickSpace != null) {
+            mQuickSpace.onPause();
+        }
     }
 
     public LauncherAccessibilityDelegate getAccessibilityDelegate() {
