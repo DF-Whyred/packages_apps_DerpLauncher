@@ -56,12 +56,14 @@ public class QuickspaceController {
     }
 
     public void onPause() {
-        mEventsController.onPause();
+        if (mEventsController != null) mEventsController.onPause();
     }
 
     public void onResume() {
-        mEventsController.onResume();
-        notifyListeners();
+        if (mEventsController != null) {
+            mEventsController.onResume();
+            notifyListeners();
+        }
     }
 
     public void notifyListeners() {
